@@ -7,7 +7,8 @@ public class TopDownPlayer : MonoBehaviour
     public Sprite[] downSprites;
     public Sprite[] upSprites;
     public Sprite[] leftSprites;
-    public Sprite[] rightSprites;
+    public Sprite[] rightSprites; public DialogueBox dialogueBox; // public 변수들 아래에 추가
+   
     private Vector2 moveInput;
     private Vector2 facingDir = Vector2.down;
     private Rigidbody2D rb;
@@ -27,7 +28,10 @@ public class TopDownPlayer : MonoBehaviour
     }
     void Update()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+       
+            if (dialogueBox.isOpen) { moveInput = Vector2.zero; } // Update 첫 줄에 추가
+            rb.linearVelocity = moveInput * moveSpeed;
+            // 아래는 그대로
         if (facingDir.y > 0) { currentSprites = upSprites; }
         else if (facingDir.y < 0) { currentSprites = downSprites; }
         else if (facingDir.x < 0) { currentSprites = leftSprites; }
