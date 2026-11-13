@@ -689,6 +689,23 @@ MonoBehaviour:
   chaseRange: 5
   player: {fileID: 591783090}
   dialogueBox: {fileID: 1224488469}
+  downSprites:
+  - {fileID: -3767911791555838559, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: -5570002244730919020, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: 994208209455328628, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  upSprites:
+  - {fileID: 725754152337015569, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: 5056331392613203703, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: 4853877773632043715, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  leftSprites:
+  - {fileID: 120655086, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: 1152645633, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: 451207958, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  rightSprites:
+  - {fileID: 586239751, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: -1818799832, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  - {fileID: 1678471006, guid: 0de671a8e77fac843adef0ab6c68e2d0, type: 3}
+  frameTime: 0.15
 --- !u!50 &150805897
 Rigidbody2D:
   serializedVersion: 5
