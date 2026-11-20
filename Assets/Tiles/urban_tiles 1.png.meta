@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 63ee7dd080e6c06489adc8c4595d8ea7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2693685822318935857
+    second: urban_tiles 1_0
+  - first:
+      213: 1731369687705120044
+    second: urban_tiles 1_1
+  - first:
+      213: 4920607565938369613
+    second: urban_tiles 1_2
+  - first:
+      213: 4150028479515335444
+    second: urban_tiles 1_3
+  - first:
+      213: 4884043361841648715
+    second: urban_tiles 1_4
+  - first:
+      213: -3217827662464930837
+    second: urban_tiles 1_5
+  - first:
+      213: -5268377273272267414
+    second: urban_tiles 1_6
+  - first:
+      213: 8427813223782781865
+    second: urban_tiles 1_7
+  - first:
+      213: -7701014096342172118
+    second: urban_tiles 1_8
+  - first:
+      213: 7631956015819605916
+    second: urban_tiles 1_9
+  - first:
+      213: -4623557002049954014
+    second: urban_tiles 1_10
+  - first:
+      213: -5689644388764838017
+    second: urban_tiles 1_11
+  - first:
+      213: -6911564946440428912
+    second: urban_tiles 1_12
+  - first:
+      213: -5674275469828472227
+    second: urban_tiles 1_13
+  - first:
+      213: -6816164620232792706
+    second: urban_tiles 1_14
+  - first:
+      213: -4251495511073994732
+    second: urban_tiles 1_15
+  - first:
+      213: 8576153022514780644
+    second: urban_tiles 1_16
+  - first:
+      213: -9010779602019049639
+    second: urban_tiles 1_17
+  - first:
+      213: -4493071989902360811
+    second: urban_tiles 1_18
+  - first:
+      213: 4662048857317286596
+    second: urban_tiles 1_19
+  - first:
+      213: -967338920065962504
+    second: urban_tiles 1_20
+  - first:
+      213: -5829031822918867240
+    second: urban_tiles 1_21
+  - first:
+      213: -8907539657186810386
+    second: urban_tiles 1_22
+  - first:
+      213: 278467775564677480
+    second: urban_tiles 1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: urban_tiles 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 368
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f73dfcbf4e16520800000000000000
+      internalID: 2693685822318935857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dea8ace8f070810800000000000000
+      internalID: 1731369687705120044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d442bdeb282894440800000000000000
+      internalID: 4920607565938369613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b14411aecd79930800000000000000
+      internalID: 4150028479515335444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441d229f8b97c340800000000000000
+      internalID: 4884043361841648715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb2a5e2acaf753d0800000000000000
+      internalID: -3217827662464930837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 36
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d8dd378c6f2e6b0800000000000000
+      internalID: -5268377273272267414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a399ec797b95f470800000000000000
+      internalID: 8427813223782781865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ebf392b70802590800000000000000
+      internalID: -7701014096342172118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9745508f872ae960800000000000000
+      internalID: 7631956015819605916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 31
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fda0e3763d5dfb0800000000000000
+      internalID: -4623557002049954014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77906dc2925a01b0800000000000000
+      internalID: -5689644388764838017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092606ddc403510a0800000000000000
+      internalID: -6911564946440428912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d524927168ce041b0800000000000000
+      internalID: -5674275469828472227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e756078346e1861a0800000000000000
+      internalID: -6816164620232792706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 12
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418444aab57aff4c0800000000000000
+      internalID: -4251495511073994732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d26e4cbd940770800000000000000
+      internalID: 8576153022514780644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f915071b743f280800000000000000
+      internalID: -9010779602019049639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fbc9b94d665a1c0800000000000000
+      internalID: -4493071989902360811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2a9e13cbce2b040800000000000000
+      internalID: 4662048857317286596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdee0c90625392f0800000000000000
+      internalID: -967338920065962504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6297ac07e1b1fa0800000000000000
+      internalID: -5829031822918867240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5ecae30ef026480800000000000000
+      internalID: -8907539657186810386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_tiles 1_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8610deb67f05dd300800000000000000
+      internalID: 278467775564677480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      urban_tiles 1_0: 2693685822318935857
+      urban_tiles 1_1: 1731369687705120044
+      urban_tiles 1_10: -4623557002049954014
+      urban_tiles 1_11: -5689644388764838017
+      urban_tiles 1_12: -6911564946440428912
+      urban_tiles 1_13: -5674275469828472227
+      urban_tiles 1_14: -6816164620232792706
+      urban_tiles 1_15: -4251495511073994732
+      urban_tiles 1_16: 8576153022514780644
+      urban_tiles 1_17: -9010779602019049639
+      urban_tiles 1_18: -4493071989902360811
+      urban_tiles 1_19: 4662048857317286596
+      urban_tiles 1_2: 4920607565938369613
+      urban_tiles 1_20: -967338920065962504
+      urban_tiles 1_21: -5829031822918867240
+      urban_tiles 1_22: -8907539657186810386
+      urban_tiles 1_23: 278467775564677480
+      urban_tiles 1_3: 4150028479515335444
+      urban_tiles 1_4: 4884043361841648715
+      urban_tiles 1_5: -3217827662464930837
+      urban_tiles 1_6: -5268377273272267414
+      urban_tiles 1_7: 8427813223782781865
+      urban_tiles 1_8: -7701014096342172118
+      urban_tiles 1_9: 7631956015819605916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
